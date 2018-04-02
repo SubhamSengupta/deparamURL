@@ -1,0 +1,25 @@
+{
+  "name": "deparam-url",
+  "version": "1.0.0",
+  "description": "Easily deparameterize URLs and get the query parameters and values wrapped in an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhamSengupta/deparamURL.git"
+  },
+  "keywords": [
+    "deparam",
+    "query",
+    "parameter",
+    "URL"
+  ],
+  "author": "Subham Sengupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SubhamSengupta/deparamURL/issues"
+  },
+  "homepage": "https://github.com/SubhamSengupta/deparamURL#readme"
+}
