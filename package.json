@@ -1,6 +1,6 @@
 {
   "name": "deparam-url",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily deparameterize URLs and get the query parameters and values wrapped in an object",
   "main": "index.js",
   "scripts": {
