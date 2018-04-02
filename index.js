@@ -8,4 +8,4 @@ const params = function (url) {
   }, {})
   return url
 }
-export default params
+module.exports = params
